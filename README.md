@@ -1,1 +1,1 @@
-# MineralSoft.Acopio.Web
+# Company.Module.Web
